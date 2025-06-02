@@ -1,0 +1,6 @@
+[submodule "src/ecat"]
+	path = src/ecat
+	url = https://github.com/recipelab/ecat_public.git
+[submodule "src/setting"]
+	path = src/setting
+	url = https://github.com/recipelab/setting_public.git
