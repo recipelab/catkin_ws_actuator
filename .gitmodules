@@ -1,6 +1,0 @@
-[submodule "src/ecat_public"]
-	path = src/ecat_public
-	url = https://github.com/recipelab/ecat_public.git
-[submodule "src/setting_public"]
-	path = src/setting_public
-	url = https://github.com/recipelab/setting_public.git
